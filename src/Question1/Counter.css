@@ -1,0 +1,44 @@
+.click{
+    border:none;
+    position: relative;
+    left:10px;
+    top:25px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: underline;
+
+}
+.circle{
+    height:190px;
+    width:190px;
+    border-radius: 50%;
+   border:1px solid black;
+    position: relative;
+    left:30px;
+    top:30px; 
+}
+
+.count{
+    position: relative;
+    left:75px;
+    top:20px;
+}
+.square{
+    height:250px;
+    width:250px;
+    background-color: rgb(179, 174, 174);
+    position:relative;
+    left:500px;
+    top:0px;
+}
+.changeColor{
+    background-color: rgb(61, 204, 116);
+    position: relative;
+    left:550px;
+    top:20px;
+    height:30px;
+    width:150px;
+    border-radius: 6px;
+    border:none;
+    cursor: pointer;
+}

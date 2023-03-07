@@ -1,0 +1,21 @@
+.red{
+    background-color: red;
+    height:30px;
+    width:150px;
+    border:none;
+    border-radius: 5px;
+}
+.blue{
+    background-color: blue;
+    height:30px;
+    width:150px;
+    border:none;
+    border-radius: 5px;
+
+}
+.boolean{
+    position:relative;
+    left:500px;
+   
+
+}
